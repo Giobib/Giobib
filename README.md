@@ -1,4 +1,4 @@
-### OLÁ eu sou o giovani
+### HELLO!!! I'AM GIOVANI
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Giobib&show_icons=true&theme=radical"
