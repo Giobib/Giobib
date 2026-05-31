@@ -67,6 +67,8 @@
 
 ###
 
+https://i.pinimg.com/originals/3f/0d/68/3f0d68483e9885f320de9f7c482f1bd5.gif
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Giobib/Giobib/snake-output/snake.svg" alt="Snake animation" />
