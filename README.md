@@ -1,6 +1,7 @@
 ## Oii! Eu sou o Giovani, estou aprendendo programação👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giobib)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giobib&show_icons=true&theme=tokyonight)
 
 <picture>
   <source
