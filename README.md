@@ -1,5 +1,5 @@
 # Oii! Eu sou o Giovani, estou aprendendo programação👋
-**'💻Desenvolvedor FullStack💻'**
+**💻Desenvolvedor FullStack💻*
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giobib)](https://github.com/anuraghazra/github-readme-stats)
 
