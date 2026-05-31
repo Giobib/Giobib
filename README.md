@@ -67,7 +67,7 @@
 
 ###
 
-https://i.pinimg.com/originals/3f/0d/68/3f0d68483e9885f320de9f7c482f1bd5.gif
+<img width="498" height="298" alt="image" src="https://github.com/user-attachments/assets/1147f41d-00ba-4063-82d3-cf611909fd02" />
 
 <br clear="both">
 
