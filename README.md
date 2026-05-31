@@ -4,22 +4,31 @@
 
 ###
 
-<h1 align="left">Oii! Eu sou o Giovani, estou aprendendo programação👋</h1>
+<h2 align="left">Oii! Eu sou o Giovani, estou aprendendo programação👋</h2>
 
 ###
 
->💻Desenvolvedor FullStack
+<h5 align="left">💻Desenvolvedor FullStack</h5>
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Giobib/Giobib/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Giobib/Giobib/languages-output/languages.svg" height="150" alt="languages graph"  />
+<img align="right" height="200" src="https://i.pinimg.com/originals/0b/b5/96/0bb5963f254c3c4122fa81df7cc4cea3.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="giovanibeann@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/giovanibeann/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -55,25 +64,15 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="giovanibeann@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/giovanibeann/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Giobib/Giobib/pacman-output/breakout-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Giobib/Giobib/pacman-output/breakout-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Giobib/Giobib/pacman-output/breakout-contribution-graph.svg">
+</picture>
 
 ###
-
-<img width="498" height="298" alt="image" src="https://github.com/user-attachments/assets/1147f41d-00ba-4063-82d3-cf611909fd02" />
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/Giobib/Giobib/snake-output/snake.svg" alt="Snake animation" />
-
-###
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
