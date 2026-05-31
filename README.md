@@ -1,19 +1,10 @@
-## Oii! Eu sou o Giovani, estou aprendendo programação👋
+# Oii! Eu sou o Giovani, estou aprendendo programação👋
+**'💻Desenvolvedor FullStack💻'**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giobib)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giobib&show_icons=true&theme=tokyonight)
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Giobib&show_icons=true&theme=tokyonight"
-    media="(prefers-color-scheme: tokyonight)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Giobib&show_icons=true"
-    media="(prefers-color-scheme: tokyonight), (prefers-color-scheme: tokyonight)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Giobib&show_icons=true" />
-</picture>
+<br>
+<br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="logo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
