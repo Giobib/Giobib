@@ -4,11 +4,11 @@
 
 ###
 
->Oii! Eu sou o Giovani, estou aprendendo programação👋
+<h1 align="left">Oii! Eu sou o Giovani, estou aprendendo programação👋</h1>
 
 ###
 
-<h5 align="left">💻Desenvolvedor FullStack</h5>
+>💻Desenvolvedor FullStack
 
 ###
 
