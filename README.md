@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Oii! Eu sou o Giovani, estou aprendendo programação👋</h2>
+>Oii! Eu sou o Giovani, estou aprendendo programação👋
 
 ###
 
