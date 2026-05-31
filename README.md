@@ -1,5 +1,17 @@
 ## Oii! Eu sou o Giovani, estou aprendendo programação👋
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Giobib&show_icons=true&theme=tokyonight"
+    media="(prefers-color-scheme: tokyonight)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Giobib&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Giobib&show_icons=true" />
+</picture>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="logo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="logo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -7,6 +19,6 @@
   <img align="center" alt="logo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="logo-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="logo-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="logo-Unity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unit/unit-original.svg">
+  <img align="center" alt="logo-Unity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
   <img align="center" alt="logo-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
