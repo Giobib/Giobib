@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Oii! Eu sou o Giovani, estou aprendendo programação👋</h1>
+<h1 align="left">Oii! Eu sou o Giovani, sou um Desenvolvedor de Sistemas👋</h1>
 
 ###
 
